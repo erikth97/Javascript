@@ -1,0 +1,15 @@
+{"level":"info","message":"Hola","service":"user-service"}
+{"level":"info","message":"Hola","service":"user-service"}
+{"level":"info","message":"mesage1","service":"user-service"}
+{"level":"warn","message":"mesage3","service":"user-service"}
+{"level":"error","message":"mesage4","service":"user-service"}
+{"level":"info","message":"mesage1","service":"user-service"}
+{"level":"warn","message":"mesage3","service":"user-service"}
+{"level":"error","message":"mesage4","service":"user-service"}
+{"level":"info","message":"mesage1","service":"user-service"}
+{"level":"warn","message":"mesage3","service":"user-service"}
+{"level":"error","message":"mesage4","service":"user-service"}
+{"level":"info","message":"mesage1","service":"user-service"}
+{"level":"debug","message":"mesage2","service":"user-service"}
+{"level":"warn","message":"mesage3","service":"user-service"}
+{"level":"error","message":"mesage4","service":"user-service"}
